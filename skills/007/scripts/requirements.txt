@@ -1,0 +1,10 @@
+# 007 Security Skill - Dependencies
+#
+# No pip install required for basic scanning and auditing.
+# Works out of the box on any Python 3.10+ installation.
+#
+# All scanners use Python stdlib only:
+#   - re, json, os, sys, pathlib, logging, argparse
+#   - hashlib, hmac, base64, math, time, stat, ast
+#
+# No external dependencies = no supply chain vulnerabilities.
